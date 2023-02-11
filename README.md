@@ -1,4 +1,4 @@
-# Risk-Management-Risk-Analysis
+# Risk-Management-RAID-SWOT-Analysis
 All businesses face risks around strategy, profits, compliance, environment, health and safety and so on. 
 
 Risk is simply uncertainty of outcome whether positive or negative (PRINCE2, 2002, p239). 
